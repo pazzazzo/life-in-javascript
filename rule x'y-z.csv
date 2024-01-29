@@ -1,0 +1,10 @@
+Subject,Target,Attraction
+green,green,-0.01
+yellow,yellow,-0.01
+red,red,0.05
+red,green,0.2
+red,yellow,0.2
+green,red,-0.1
+yellow,red,-0.1
+yellow,green,0.1
+green,yellow,-0.1
