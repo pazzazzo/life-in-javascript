@@ -33,3 +33,6 @@ For each line, the first parameter is the color on which the rule will act, the 
 - Create a button to add color.
 - Create sliders to change a color population.
 - Create sliders to change the attraction of each color.
+
+## Test-it
+https://pazzazzo.github.io/life-in-javascript
